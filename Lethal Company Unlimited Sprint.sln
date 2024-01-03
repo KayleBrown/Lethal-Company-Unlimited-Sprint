@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lethal Company Unlimited Sprint", "Leathal Company Unlimited Sprint\Lethal Company Unlimited Sprint.csproj", "{540721BA-A8AE-4E36-85B1-6044DFF6BEA9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{540721BA-A8AE-4E36-85B1-6044DFF6BEA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{540721BA-A8AE-4E36-85B1-6044DFF6BEA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{540721BA-A8AE-4E36-85B1-6044DFF6BEA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{540721BA-A8AE-4E36-85B1-6044DFF6BEA9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4BF55BD1-DE06-486C-9C6D-60FE10E443B1}
+	EndGlobalSection
+EndGlobal
