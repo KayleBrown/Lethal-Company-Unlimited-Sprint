@@ -36,7 +36,6 @@ namespace Lethal_Company_Unlimited_Sprint
 
             harmony.PatchAll(typeof(UltSprintMod));
             harmony.PatchAll(typeof(PlayerControllerBPatch));
-
         }
     }
 }
