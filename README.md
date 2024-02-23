@@ -1,4 +1,4 @@
-# Lethal Company - Custom Game Mode
+# Lethal Company - Custom Game Mod
 
 ## Description
 This repository contains a custom game mod for Lethal Company, implemented in C# using the BepinEx and Harmony frameworks. That has the user's character achieve unlimited sprint
